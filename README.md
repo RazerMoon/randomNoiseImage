@@ -11,11 +11,11 @@ go build
 ## Usage
 
 ```bash
-generateNoiseImage.exe [dimensions] [smoothing]
+generateNoiseImage.exe [dimensions] [smoothing] [colours]
 ```
 
 e.g.
 
 ```bash
-generateNoiseImage.exe 1000 Y
+generateNoiseImage.exe 1000 Y Y
 ```
